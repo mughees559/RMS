@@ -1,0 +1,129 @@
+body{
+  font-family: sans-serif;
+  background-color: white;
+}
+.top-nav{
+  background: #f0f0f0;
+ height: 60px;
+}
+.reditxt{
+  margin-top: 15px;
+  color: red;
+}
+.top-header img{
+  padding-left: 100px;
+  height: 80px;
+}
+.top-header ul li{
+  list-style: none;
+  text-decoration: none;
+  display: inline-block;
+  
+  padding-top: 20px;
+}
+.top-header ul li a{
+  display: block;
+  padding: 5px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+.top-header ul li a:hover{
+  display: block;
+  background-color: black;
+  padding: 5px;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.slider{
+  height: 500px;
+  background-image: url("/slider1.jpg");
+   background-size: cover;
+  background-color: #cccccc;
+}
+.slider{
+  padding-left: 200px; 
+}
+.slider h1{
+  font-size: 46px;
+  color: white;
+  font-family: 'Brush Script MT';
+}
+.slider p{
+  font-size: 26px;
+  color: white;
+  font-family: 'Brush Script MT';
+}
+.cover-diss{
+  padding-top: 100px;
+}
+
+/*MainPageCSS*/
+
+.page-center{
+  text-align: center;
+ 
+  
+  /*color: #f74ab2;*/
+  
+}
+/*.box > div{
+  height: 300px;
+}*/
+.page-center >h1{
+  padding-top: 15px;
+  color: black;
+  font-family: 'Brush Script MT';
+}
+.desc-box
+{
+  background-color: white;
+  width: 82.6%;
+  margin-left: 8.7%;
+  padding: 10px;
+
+}
+.desc-blocks{
+  padding: 20px;
+}
+
+.desc-blocks > img{
+  height: 275px;
+  width: 360px;
+}
+.prodesc-blocks > img {
+  height: 200px;
+  width: 360px;
+}
+
+
+/*-----------appoinment-----------*/
+
+.appform{
+  padding: 50px;
+    border: 2px solid black;
+      width: 50%;
+      background-color: #0f0f0f;
+      color: white;
+}
+
+
+/*footerCss*/
+.footer{
+  padding-top: 50px;
+  background: black;
+  color: white;
+}
+.footer img{
+  height: 30px;
+}
+.getapp strong{
+ 
+}
+.getapp img{
+  height: 40px;
+}
+.social strong{
+  
+}

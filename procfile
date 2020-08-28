@@ -1,0 +1,1 @@
+web: wender/bin/heroku-php-apache2 public/
